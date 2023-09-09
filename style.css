@@ -1,0 +1,134 @@
+                                        body {
+                                            margin: 0;
+                                            font-family: Comfortaa;
+                                        }
+                                        
+                                        .title {
+                                            margin-left: 25px;
+                                            margin-right: 5px;
+                                            margin-top: 20px;
+                                            margin-right: 5px;
+                                            color: #ffffff;
+                                            float: left;
+                                            font-size: 0.75em;
+                                            background: transparent;
+                                            border: none;
+                                            font-family: Comfortaa;
+                                            cursor: pointer;
+                                        }
+                                        
+                                        .box1 {
+                                            background-image: linear-gradient(to left bottom, rgb(79, 34, 201) 40%, rgb(115, 98, 161) 100%);
+                                            width: auto;
+                                            height: 25.65ch;
+                                            font-size: 5ch;
+                                            text-align: center;
+                                        }
+                                        
+                                        .nav {
+                                            font-size: 20px;
+                                            padding-top: 15px;
+                                            margin-left: 55%;
+                                            color: #d8d8d8;
+                                            text-decoration: none;
+                                        }
+                                        
+                                        .nav ul {
+                                            list-style: none;
+                                            display: inline-flex;
+                                        }
+                                        
+                                        .nav li a {
+                                            padding-left: 8px;
+                                            padding-right: 25px;
+                                            cursor: pointer;
+                                            text-align: center;
+                                            row-gap: 20ch;
+                                            color: #d8d8d8;
+                                            text-decoration: none;
+                                        }
+                                        
+                                        .nav li:hover {
+                                            text-decoration: underline;
+                                            text-decoration-color: aqua;
+                                            text-underline-offset: 9px;
+                                        }
+                                        
+                                        .cpyname {
+                                            color: rgb(255, 255, 255);
+                                            font-family: Audiowide;
+                                            text-shadow: 1px 1px 11px rgb(200, 60, 255);
+                                            margin: 9% 0px 0px 0px;
+                                        }
+                                        
+                                        .cpydes {
+                                            font-size: 20px;
+                                            color: #d8d8d8;
+                                            margin-top: none;
+                                        }
+                                        
+                                        .contact {
+                                            margin: 5% auto 0% auto;
+                                            font-size: 30px;
+                                            position: relative;
+                                            padding: 5px 40px 5px 40px;
+                                            background: transparent;
+                                            font-family: Comfortaa;
+                                            border: transparent;
+                                            color: #d8d8d8;
+                                            transition: transform .5s;
+                                        }
+                                        
+                                        .contact:hover {
+                                            cursor: pointer;
+                                            text-decoration: underline;
+                                            color: rgb(230, 230, 230);
+                                            text-decoration-color: rgb(200, 60, 255);
+                                            text-underline-offset: 10px;
+                                            transform: scale(1.11);
+                                        }
+                                        
+                                        .subtitle {
+                                            margin: 0% 0% 0% 0%;
+                                            font-size: 20px;
+                                            padding: 0px 0px 0px 0px;
+                                            background: transparent;
+                                            font-family: Comfortaa;
+                                            border: transparent;
+                                            color: #d8d8d8;
+                                        }
+                                        
+                                        .subtitle:hover {
+                                            cursor: pointer;
+                                            text-decoration: underline;
+                                            text-underline-offset: 8px;
+                                        }
+                                        
+                                        footer {
+                                            padding-top: 45px;
+                                            text-align: left;
+                                        }
+                                        
+                                        .foot {
+                                            width: 80%;
+                                            display: inline-flex;
+                                            gap: 16%;
+                                            padding: 5% 0% 0% 11%;
+                                        }
+                                        
+                                        .ftbtn {
+                                            background: transparent;
+                                            border: none;
+                                            color: white;
+                                            font-size: 20px;
+                                            font-family: Comfortaa;
+                                            padding: 0% 1% 0% 0%;
+                                        }
+                                        
+                                        .ftbtn:hover {
+                                            cursor: pointer;
+                                            text-decoration: underline;
+                                            text-decoration-color: rgb(201, 201, 201);
+                                            text-underline-offset: 10px;
+                                            padding: 0% 1% 0% 0%;
+                                        }
